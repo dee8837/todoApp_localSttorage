@@ -1,6 +1,7 @@
 While making this TodoApp I use react hook like UseState and useEffect.
 I also use localStorage for storing the data and json.parse method.
 i also use npm package like react-icon-kit for showing icons.
+I also used here bootstrap for css .
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
